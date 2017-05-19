@@ -1,0 +1,6 @@
+.idea
+.floo*
+*.pyc
+*.pem
+*.crt
+*.key
